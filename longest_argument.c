@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
     int index = 0;
     if (argc == 1)
     {
-        printf("%s","");
+        puts("");
     }
     else
     {
